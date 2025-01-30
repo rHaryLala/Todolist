@@ -38,17 +38,17 @@ Before you begin, ensure you have met the following requirements:
      cd animated-todo-list
 
 3. Install the dependencies:
-
+   ```bash
      npm install
      # or
      yarn install
 
 4. Create a \`.env.local\` file in the root directory and add your MongoDB connection string:
-
+   ```bash
      MONGODB_URI=mongodb://localhost:27017/tododb
 
 5. Run the development server:
-
+   ```bash
      npm run dev
      # or
      yarn dev
