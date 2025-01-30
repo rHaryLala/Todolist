@@ -33,32 +33,25 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 
-   \`\`\`bash
+  
    git clone https://github.com/rHarylala/Todolist.git
    cd animated-todo-list
-   \`\`\`
 
 2. Install the dependencies:
 
-   \`\`\`bash
    npm install
    # or
    yarn install
-   \`\`\`
 
 3. Create a \`.env.local\` file in the root directory and add your MongoDB connection string:
 
-   \`\`\`
    MONGODB_URI=mongodb://localhost:27017/tododb
-   \`\`\`
 
 4. Run the development server:
 
-   \`\`\`bash
    npm run dev
    # or
    yarn dev
-   \`\`\`
 
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
