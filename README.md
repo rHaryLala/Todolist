@@ -1,4 +1,6 @@
-# Animated Todo List
+# Todo List
+![image](https://github.com/user-attachments/assets/98ed7800-6500-4783-9523-2d071eb7aec6)
+
 
 This project is a vibrant and interactive todo list application built with Next.js, React, and MongoDB. It features a youthful design with animations to make task management more engaging and fun.
 
